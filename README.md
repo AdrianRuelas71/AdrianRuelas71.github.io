@@ -1,10 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Developer's Portfolio ✨</h1>
+  <h1 align="center">✨ Adrian Ruelas-Gamboa ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
+    About me: 
+    I’m a highly motivated Electrical Engineering student with a passion for embedded systems, firmware development, and hardware design. My goal is to contribute to innovative projects that bridge software and hardware, from IoT devices to real-time embedded solutions. With hands-on experience in microcontrollers (ARM, AVR, ESP), C/C++ programming, I thrive on solving complex engineering challenges. Whether it’s optimizing power efficiency, debugging firmware, or designing robust embedded architectures, I’m eager to apply my skills in a dynamic engineering role. Explore my projects and resume to see how I combine technical expertise with a problem-solving mindset to build efficient embedded systems. 
     <br/>
     <strong>Site URL / Demo » </strong> 
     <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
